@@ -1,0 +1,13 @@
+.inputLabel {
+    color: white;
+}
+
+.input {
+    background-color: #202020;
+    color: white;
+    margin-left: 5px;
+}
+
+.inputSpace{
+    margin: 5px;
+}

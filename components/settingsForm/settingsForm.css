@@ -1,0 +1,21 @@
+.formHeader{
+    color: white;
+}
+
+.settingsContent{
+    background-color: #202020;
+    min-width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.settingsForm{
+    margin: 10px;
+    position: relative;
+}
+
+.settingsFields{
+    display: flex;
+    flex-wrap: wrap;
+}

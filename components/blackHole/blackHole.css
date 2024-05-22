@@ -1,0 +1,7 @@
+.holeLayer{
+    background-color: #050505;
+    border-radius: 50%;
+    border: 1px solid #404040;
+    position: absolute;
+    z-index: 20;
+}
